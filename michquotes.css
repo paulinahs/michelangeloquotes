@@ -1,0 +1,95 @@
+h1{
+    font-family: 'Poppins';
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+p{
+    font-family: 'Poppins';
+    font-size: 18px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+.info{
+    text-align: center;
+    padding: 2px 8px;
+    margin-top: 50px;
+}
+
+
+
+.text{
+    padding: 2px 8px;
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.quote-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+
+
+/* Add some padding inside the card container */
+.container {
+    padding: 2px 8px;
+    align-items: center;
+    text-align: center;
+}
+
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: 'Poppins';
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+
+.img{
+    text-align: center;
+    margin-top: 80px;
+   
+}
+
+.icons{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#quote {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#refresh {
+    cursor: pointer;
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: 'Poppins';
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 50px;
+    display: block;
+    margin: 0 auto;
+}
+
